@@ -1,0 +1,16 @@
+{
+  "name": "control_surface_test_ableton-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simple-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "firebase": "^10.7.1"
+  }
+}
