@@ -3,6 +3,7 @@
 ## About
 
 Able to Browse is a Max for Live device that helps you quickly load instruments, effects, and samples in Ableton Live without scrolling through the browser. It works alongside a companion web app which can be opened on your phone or iPad, letting you select and drop devices directly into your session with a single tap on your mobile device.
+[Demo Video](https://youtu.be/w1NotmRlbS4)
 
 ## Download
 
